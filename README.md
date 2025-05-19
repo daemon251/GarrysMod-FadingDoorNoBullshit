@@ -1,4 +1,4 @@
-This is an edit of https://steamcommunity.com/sharedfiles/filedetails/?id=407236638&searchtext=fading+door]
+This is an edit of https://steamcommunity.com/sharedfiles/filedetails/?id=407236638&searchtext=fading+door
 
 This version of the fading door tool intends to make it more fun to play against in a PVP setting. The main changes are listed below:
 
